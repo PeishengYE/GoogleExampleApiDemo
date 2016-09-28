@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.example.android.apis.app;
+package com.radioyps.apidemos.app;
 
-import com.example.android.apis.app.IRemoteServiceCallback;
+import com.radioyps.apidemos.app.IRemoteServiceCallback;
 
 /**
  * Example of defining an interface for calling on to a remote service

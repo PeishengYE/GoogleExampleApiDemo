@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.apis.app;
+package com.radioyps.apidemos.app;
 
 /**
  * Example of a callback interface used by IRemoteService to send
